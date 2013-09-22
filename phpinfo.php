@@ -2,4 +2,6 @@
 
 phpinfo();
 
+echo '<br><br>'.'hello';
+
 ?>
